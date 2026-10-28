@@ -7,7 +7,9 @@
 
 **Meslektaş**, LinkedIn tarzı profesyonel yetkinlik profillerini Tinder tarzı hızlı kart kaydırma (swipe) mekaniği ile birleştiren mobil öncelikli bir iş ağı uygulamasıdır. Kullanıcılar yetkinlik ve arayış etiketlerini seçer; deste bu etiketlerin örtüşmesine ve şehre göre puanlanıp sıralanır; karşılıklı beğeni otomatik eşleşme oluşturur ve eşleşen profesyoneller anlık mesajlaşır.
 
-![Meslektaş Uygulama Ekranları](assets/meslektas_preview.png)
+## 📸 Uygulama Ekran Görüntüleri (`DeckScreen` • `MatchesScreen` • `ChatScreen`)
+
+![Meslektaş Uygulama Ekranları](screenshots/1_uygulama_ekranlari.png)
 
 ---
 
